@@ -133,8 +133,8 @@ if (!$result) {
             }
         }
 
-            // Closing the connection
-            $conn->close();
+        // Closing the connection
+        $conn->close();
         ?>
     </div>
     
